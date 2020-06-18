@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">SaVe_LiFe</string>
+
+    <string-array name="blood_type">
+        <item>A+</item>
+        <item>B+</item>
+        <item>AB+</item>
+        <item>O+</item>
+        <item>A-</item>
+        <item>B-</item>
+        <item>AB-</item>
+        <item>O-</item>
+    </string-array>
+    <string-array name="panch">
+
+        <item>Dhaka</item>
+        <item>Chattogram</item>
+        <item>Sylhet</item>
+        <item>Rangpur</item>
+        <item>Khulna</item>
+        <item>Mymensingh</item>
+        <item>Barishal </item>
+        <item>Rajshahi
+ </item>
+
+    </string-array>
+
+
+</resources>
